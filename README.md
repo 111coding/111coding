@@ -18,9 +18,8 @@
 </div>
 
 
-
 #### Books
-- Study log
+- **Study log**
 <div align=center>
 
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-1DA1F2?style=flat-square&logo=flutter&link=https://111coding.github.io/books/flutter)](https://111coding.github.io/books/flutter) 
