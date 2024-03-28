@@ -1,7 +1,7 @@
 
 
 
-👋 Hi There, Currently I'm **mobile app developer** using flutter.📱
+👋 Hi There, Currently I'm **mobile app developer** using flutter.📱</br>
 I hope to continue enjoying programming as much as I do now. 😁
 
 
