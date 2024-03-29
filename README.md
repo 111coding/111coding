@@ -37,3 +37,7 @@ gantt
 	  Typescript              :    2022-12, 2024-03
     React                  :    2023-12, 2024-04
 ```
+
+
+![JW's GitHub stats](https://github-readme-stats.vercel.app/api?username=111coding&show_icons=true&theme=default)
+
